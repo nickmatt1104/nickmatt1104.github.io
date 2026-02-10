@@ -5,7 +5,7 @@
   <circle cx="40" cy="15" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="15" r="6" fill="#27c93f"/>
   <rect x="0" y="30" width="200" height="600" fill="#252526"/>
-  <text x="600" y="280" font-family="monospace" font-size="48" fill="#569cd6" text-anchor="middle">Sampada Pavate</text>
-  <text x="600" y="340" font-family="monospace" font-size="24" fill="#9cdcfe" text-anchor="middle">Software Developer Portfolio</text>
+  <text x="600" y="280" font-family="monospace" font-size="48" fill="#569cd6" text-anchor="middle">Ravi Sekhar Kommuri</text>
+  <text x="600" y="340" font-family="monospace" font-size="24" fill="#9cdcfe" text-anchor="middle">Data Engineer Portfolio</text>
   <text x="600" y="420" font-family="monospace" font-size="18" fill="#6a9955" text-anchor="middle">// Built with Next.js + VSCode Theme</text>
 </svg>

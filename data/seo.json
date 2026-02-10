@@ -1,26 +1,13 @@
 {
-  "title": "SAMPADA SANTOSH PAVATE - Full Stack Software Engineer Portfolio",
-  "description": "Full Stack Software Engineer with mid-level experience delivering modern web applications, secure APIs, and automated deployments. Recently modernized a university website by migrating from Jekyll to Next.js 14 using TypeScript and Tailwind, implementing CI/CD on Vercel, and automated Magento deployment on Ubuntu with Ansible, cutting setup time by 75%. Proficient in React/Next.js, Node/Express, Flask, and SQL/NoSQL databases, with hands-on ML demo work. Seeking to leverage full-stack expertise to drive scalable, high-performance solutions for your engineering team.",
+  "title": "Ravi Sekhar Kommuri - Data Engineer Portfolio",
+  "description": "Results-driven Data Engineer with 4+ years of experience in architecting, building, and optimizing scalable data pipelines and analytics solutions. Proficient in Apache Spark, Kafka, Airflow, dbt, AWS, and Azure.",
   "keywords": [
-    "developer",
-    "python",
-    "full",
-    "stack",
-    "software",
-    "sampada santosh pavate",
-    "portfolio",
-    "engineer",
-    "java",
-    "javascript",
-    "typescript",
-    "html",
-    "css",
-    "sql",
-    "node.js",
-    "express",
-    "flask",
-    "rest apis"
+    "data engineer", "python", "sql", "spark", "kafka",
+    "airflow", "dbt", "aws", "azure", "ravi sekhar kommuri",
+    "portfolio", "pyspark", "etl", "data pipeline",
+    "tableau", "power bi", "hadoop", "machine learning",
+    "data warehousing", "scala"
   ],
-  "siteUrl": "https://sampadasantoshpavate.github.io",
+  "siteUrl": "https://ravisekhargit.github.io",
   "ogImage": "/og-image.svg"
 }

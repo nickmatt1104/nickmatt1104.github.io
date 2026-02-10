@@ -1,29 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Research Assistant",
-    "company": "University of Texas",
-    "date": "May 2025 - Present",
-    "description": "Migrated a site from Jekyll to Next.js 14 (TypeScript, Tailwind); converted YAML content to typed JSON to improve maintainability and performance.\nBuilt filterable Team/News/Publications modules and shipped via GitHub-to-Vercel CI/CD with linting and analytics for reliable releases.",
+    "title": "Data Engineer",
+    "company": "HCA Healthcare, TX",
+    "date": "Aug 2024 - Present",
+    "description": "Designed and implemented a scalable data lakehouse architecture, ingesting over 2 TB of structured and semi-structured clinical, claims, provider, and operational data across 180+ hospitals. Built modular data pipelines using Airflow and dbt, orchestrating hourly incremental loads from 15+ upstream systems (~25M rows/day). Optimized ETL performance by 32% using Apache Spark on AWS EMR. Developed interactive Power BI dashboards reducing reporting SLAs from 48 hours to under 3 hours. Strengthened data governance with PHI masking/anonymization policies. Collaborated with Clinical Analytics and Actuarial teams enabling $3.4M/year in operational savings.",
     "icon": "/default-company.svg",
     "iconBg": "#6b7c93"
   },
   {
     "id": 2,
-    "title": "Full Stack Developer",
-    "company": "Gangavathiexports",
-    "date": "Jan 2024 - Jun 2024",
-    "description": "Automated Magento deployment on Ubuntu with Ansible + SMTP setup, reducing deployment time by 75%.\nImproved mobile UX and configurable product workflows (+40% inventory efficiency); integrated secure payment flow and SEO improvements.",
+    "title": "Data Engineer",
+    "company": "Cognizant, India",
+    "date": "Jul 2020 - Aug 2023",
+    "description": "Architected and deployed a high-throughput ETL pipeline using Apache Kafka and Azure Event Hubs, processing financial and market data daily with 99.9% reliability. Built scalable transformation pipelines using PySpark in Azure Databricks. Increased prediction accuracy by 20% training ML models on Azure Machine Learning. Created interactive Tableau dashboards improving stakeholder engagement by 50%. Orchestrated 100+ ETL workflows using Azure Data Factory and Apache Airflow on AKS. Integrated trade, CRM, and compliance systems into a centralized Azure Synapse data warehouse.",
     "icon": "/default-company.svg",
     "iconBg": "#264653"
-  },
-  {
-    "id": 3,
-    "title": "Software Developer Intern",
-    "company": "Maruti Constructions",
-    "date": "Sep 2021 - Aug 2022",
-    "description": "Developed a price prediction system (Linear Regression) achieving 92% accuracy and cutting estimation time by 75%.\nDeployed a Flask REST API with Redis + MySQL for sub-second predictions; improved model quality via outlier handling and feature engineering (+38%).",
-    "icon": "/default-company.svg",
-    "iconBg": "#6b7c93"
   }
 ]

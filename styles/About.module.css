@@ -27,7 +27,6 @@
   }
 
   .imageSection img {
-    transform: rotate(-90deg);
     max-width: 350px;
     border-radius: 10px;
   }

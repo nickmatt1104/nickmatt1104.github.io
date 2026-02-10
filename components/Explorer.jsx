@@ -26,11 +26,6 @@ const explorerItems = [
     icon: 'js_icon.svg',
   },
   {
-    name: 'research.json',
-    path: '/research',
-    icon: 'json_icon.svg',
-  },
-  {
     name: 'education.yaml',
     path: '/education',
     icon: 'yaml_icon.svg',
@@ -44,11 +39,6 @@ const explorerItems = [
     name: 'certifications.jsx',
     path: '/certifications',
     icon: 'react_icon.svg',
-  },
-  {
-    name: 'endorsement.html',
-    path: '/endorsements',
-    icon: 'html_icon.svg',
   },
   {
     name: 'contact.css',

@@ -1,31 +1,31 @@
 {
-  "email": "sampadasantoshpavate@gmail.com",
-  "phone": "+1 (682) 413-0496",
+  "email": "ravikommuri13@gmail.com",
+  "phone": "+1 (281) 925-7781",
   "socials": [
     {
       "name": "Email",
-      "username": "sampadasantoshpavate@gmail.com",
-      "url": "mailto:sampadasantoshpavate@gmail.com",
+      "username": "ravikommuri13@gmail.com",
+      "url": "mailto:ravikommuri13@gmail.com",
       "icon": "email"
     },
     {
       "name": "Phone",
-      "username": "+1 (682) 413-0496",
-      "url": "tel:+16824130496",
+      "username": "+1 (281) 925-7781",
+      "url": "tel:+12819257781",
       "icon": "phone"
     },
     {
       "name": "LinkedIn",
-      "username": "https://www.linkedin.com/in/sampada-pavate-2023/",
-      "url": "https://www.linkedin.com/in/sampada-pavate-2023/",
+      "username": "https://www.linkedin.com/in/kommuri-ravi-87b0753a2/",
+      "url": "https://www.linkedin.com/in/kommuri-ravi-87b0753a2/",
       "icon": "linkedin"
     },
     {
       "name": "GitHub",
-      "username": "@SampadaPawate",
-      "url": "https://github.com/SampadaPawate",
+      "username": "@ravisekhargit",
+      "url": "https://github.com/ravisekhargit",
       "icon": "github"
     }
   ],
-  "repoUrl": "https://github.com/SampadaPawate"
+  "repoUrl": "https://github.com/ravisekhargit"
 }

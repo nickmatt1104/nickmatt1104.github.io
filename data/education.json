@@ -2,18 +2,18 @@
   {
     "id": 1,
     "degree": "M.S.",
-    "school": "University of Texas at Arlington",
-    "date": "Aug 2023 - May 2025",
-    "description": "Computer Science.",
+    "school": "Campbellsville University, Louisville, Kentucky, USA",
+    "date": "",
+    "description": "Information Technology & Management.",
     "icon": "/default-school.svg",
     "iconBg": "#27AE60"
   },
   {
     "id": 2,
-    "degree": "B.E.",
-    "school": "Visvesvaraya Technological University (GMIT)",
-    "date": "Aug 2019 - Jul 2023",
-    "description": "Computer Science.",
+    "degree": "B.Tech",
+    "school": "Gudlavalleru Engineering College, JNTUK, India",
+    "date": "",
+    "description": "Computer Science and Engineering.",
     "icon": "/default-school.svg",
     "iconBg": "#9B59B6"
   }

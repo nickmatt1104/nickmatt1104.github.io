@@ -47,11 +47,9 @@ const Tabsbar = () => {
         <Tab icon="/html_icon.svg" filename="about.html" path="/about" />
         <Tab icon="/css_icon.svg" filename="experience.css" path="/experience" />
         <Tab icon="/js_icon.svg" filename="projects.js" path="/projects" />
-        <Tab icon="/json_icon.svg" filename="research.json" path="/research" />
         <Tab icon="/yaml_icon.svg" filename="education.yaml" path="/education" />
         <Tab icon="/markdown_icon.svg" filename="github.md" path="/github" />
         <Tab icon="/react_icon.svg" filename="certifications.jsx" path="/certifications" />
-        <Tab icon="/html_icon.svg" filename="endorsement.html" path="/endorsements" />
         <Tab icon="/css_icon.svg" filename="contact.css" path="/contact" />
       </div>
       {showRightArrow && (

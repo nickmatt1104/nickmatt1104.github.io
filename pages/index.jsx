@@ -5,11 +5,11 @@ import styles from '../styles/HomePage.module.css';
 import user from '../data/user.json';
 
 const roles = [
-  'Software Developer',
-  'Full Stack Engineer',
-  'Backend Developer',
-  'Frontend Developer',
   'Data Engineer',
+  'ETL Developer',
+  'Cloud Data Architect',
+  'BI Developer',
+  'Python Developer',
 ];
 
 export default function HomePage() {

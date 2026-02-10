@@ -1,17 +1,18 @@
 {
   "bio": [
-    "Hello! I'm SAMPADA SANTOSH PAVATE, a Full Stack Software Engineer based in Arlington, TX.",
-    "Full Stack Software Engineer with mid-level experience delivering modern web applications, secure APIs, and automated deployments. Recently modernized a university website by migrating from Jekyll to Next.js 14 using TypeScript and Tailwind, implementing CI/CD on Vercel, and automated Magento deployment on Ubuntu with Ansible, cutting setup time by 75%. Proficient in React/Next.js, Node/Express, Flask, and SQL/NoSQL databases, with hands-on ML demo work. Seeking to leverage full-stack expertise to drive scalable, high-performance solutions for your engineering team."
+    "Hello! I'm Ravi Sekhar Kommuri, a Data Engineer based in Texas, USA.",
+    "Results-driven and detail-oriented Data Engineer with 4+ years of experience in architecting, building, and optimizing scalable data pipelines and analytics solutions in agile enterprise environments. Proficient in developing robust ETL/ELT processes using tools like Apache Spark, Kafka, Airflow, dbt, and cloud services including AWS and Azure. Strong expertise in Python, SQL, and R, with a solid foundation in data modeling, data warehousing, and real-time streaming. Skilled in data visualization and storytelling using Tableau, Power BI, and Excel, translating complex datasets into actionable insights for business stakeholders."
   ],
   "highlights": [
-    "Proficient in Python, Java, JavaScript",
-    "Experienced with React, Next.js, Tailwind CSS",
-    "Skilled in MongoDB, MySQL, SQL Server"
+    "Proficient in Python, SQL, R, and Scala",
+    "Expert in Apache Spark, Kafka, Airflow, and dbt",
+    "Experienced with AWS and Azure cloud platforms",
+    "Skilled in Tableau, Power BI, and data visualization"
   ],
   "interests": [
-    "Docker",
-    "Ansible",
-    "Linux",
-    "Git"
+    "Data Engineering",
+    "Cloud Platforms",
+    "Machine Learning",
+    "Data Visualization"
   ]
 }
