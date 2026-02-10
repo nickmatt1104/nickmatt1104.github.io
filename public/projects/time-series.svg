@@ -1,0 +1,26 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4s" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f23"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="300" fill="url(#bg4s)"/>
+  <text x="300" y="70" text-anchor="middle" fill="#FF6F00" font-family="Arial, sans-serif" font-size="30" font-weight="bold">Time Series Forecasting</text>
+  <text x="300" y="105" text-anchor="middle" fill="#9cdcfe" font-family="Arial, sans-serif" font-size="16">Python Analysis &amp; Prediction</text>
+  <!-- Time series line -->
+  <polyline points="80,220 140,200 200,210 260,180 320,190 380,160 440,170 500,140" fill="none" stroke="#3776AB" stroke-width="3"/>
+  <!-- Forecast dashed -->
+  <polyline points="500,140 530,130 560,120" fill="none" stroke="#FF6F00" stroke-width="3" stroke-dasharray="8,4"/>
+  <!-- Data points -->
+  <circle cx="80" cy="220" r="4" fill="#3776AB"/>
+  <circle cx="140" cy="200" r="4" fill="#3776AB"/>
+  <circle cx="200" cy="210" r="4" fill="#3776AB"/>
+  <circle cx="260" cy="180" r="4" fill="#3776AB"/>
+  <circle cx="320" cy="190" r="4" fill="#3776AB"/>
+  <circle cx="380" cy="160" r="4" fill="#3776AB"/>
+  <circle cx="440" cy="170" r="4" fill="#3776AB"/>
+  <circle cx="500" cy="140" r="4" fill="#FF6F00"/>
+  <line x1="60" y1="250" x2="570" y2="250" stroke="#555" stroke-width="1.5"/>
+  <line x1="60" y1="120" x2="60" y2="250" stroke="#555" stroke-width="1.5"/>
+</svg>

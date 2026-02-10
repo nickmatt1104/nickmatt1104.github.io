@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Customer Trends Data Analysis",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/customer-trends.svg",
     "description": "Data analysis project using SQL, Python, and Power BI to explore customer trends and generate actionable business insights.",
     "tags": ["Jupyter Notebook", "SQL", "Python", "Power BI"],
     "source_code": "https://github.com/ravisekhargit/customer-trends-data-analysis-sql-python-powerbi",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Realtime Warehousing with Snowflake",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/snowflake-warehouse.svg",
     "description": "Comprehensive project exploring real-time data warehousing patterns and architecture using Snowflake.",
     "tags": ["Snowflake", "Data Warehousing", "SQL"],
     "source_code": "https://github.com/ravisekhargit/realtime-warehousing-with-snowflake",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Supply Chain Analysis (FMCG - AtliQMart)",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/supply-chain.svg",
     "description": "Supply chain analytics in the FMCG domain, demonstrating clean code principles and modern data analysis approaches.",
     "tags": ["Data Analysis", "FMCG", "Analytics"],
     "source_code": "https://github.com/ravisekhargit/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Time Series Analysis & Forecasting",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/time-series.svg",
     "description": "Interactive application for time series analysis and forecasting using Python, built for continuous learning and experimentation.",
     "tags": ["Jupyter Notebook", "Python", "Forecasting"],
     "source_code": "https://github.com/ravisekhargit/time-series-analysis-and-forecasting-with-python",
@@ -37,15 +37,6 @@
   },
   {
     "id": 5,
-    "name": "Contribution History",
-    "image": "/projects/default-project.svg",
-    "description": "Generated GitHub contribution history visualization and tracking tool.",
-    "tags": ["GitHub", "Visualization"],
-    "source_code": "https://github.com/ravisekhargit/contribution-history",
-    "demo": "https://github.com/ravisekhargit/contribution-history"
-  },
-  {
-    "id": 6,
     "name": "ravisekhargit.github.io",
     "image": "/projects/portfolio.svg",
     "description": "Professional portfolio website for Ravi Sekhar Kommuri.",
@@ -56,7 +47,7 @@
   {
     "id": 7,
     "name": "Central Repo",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/generic-project.svg",
     "description": "Central repository for shared code and utilities.",
     "tags": ["Utilities"],
     "source_code": "https://github.com/ravisekhargit/centralrepo",
@@ -65,7 +56,7 @@
   {
     "id": 8,
     "name": "Guvi",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/generic-project.svg",
     "description": "Projects and exercises from Guvi learning platform.",
     "tags": ["Learning", "Practice"],
     "source_code": "https://github.com/ravisekhargit/guvi",
@@ -74,7 +65,7 @@
   {
     "id": 9,
     "name": "Guvi SQL & Python Mini Projects",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/generic-project.svg",
     "description": "SQL basic scripts and Python mini projects from Guvi learning platform.",
     "tags": ["SQL", "Python"],
     "source_code": "https://github.com/ravisekhargit/Guvi_SQL_Basic-scripts-Python-mini",
@@ -83,7 +74,7 @@
   {
     "id": 10,
     "name": "GitHub Repo",
-    "image": "/projects/default-project.svg",
+    "image": "/projects/generic-project.svg",
     "description": "Practice repository for exploring GitHub features and workflows.",
     "tags": ["Git", "Practice"],
     "source_code": "https://github.com/ravisekhargit/githubrepo",

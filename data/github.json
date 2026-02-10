@@ -2,7 +2,7 @@
   "user": {
     "login": "ravisekhargit",
     "avatar_url": "https://github.com/ravisekhargit.png",
-    "public_repos": 11,
+    "public_repos": 10,
     "followers": 0,
     "following": 1
   },
@@ -49,16 +49,6 @@
     },
     {
       "id": 5,
-      "name": "contribution-history",
-      "description": "Generated GitHub contribution history.",
-      "html_url": "https://github.com/ravisekhargit/contribution-history",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 6,
       "name": "ravisekhargit.github.io",
       "description": "Professional portfolio for ravisekhargit.",
       "html_url": "https://github.com/ravisekhargit/ravisekhargit.github.io",

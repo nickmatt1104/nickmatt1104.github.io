@@ -1,0 +1,74 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5s" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="300" fill="url(#bg5s)"/>
+  <text x="300" y="70" text-anchor="middle" fill="#27ca40" font-family="Arial, sans-serif" font-size="30" font-weight="bold">Contribution History</text>
+  <text x="300" y="105" text-anchor="middle" fill="#9cdcfe" font-family="Arial, sans-serif" font-size="16">GitHub Activity Tracker</text>
+  <!-- Contribution grid -->
+  <rect x="100" y="140" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="120" y="140" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="140" y="140" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="160" y="140" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="180" y="140" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="200" y="140" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="220" y="140" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="240" y="140" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="260" y="140" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="280" y="140" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="300" y="140" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="320" y="140" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="340" y="140" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="360" y="140" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="380" y="140" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="400" y="140" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="420" y="140" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="440" y="140" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="460" y="140" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="480" y="140" width="14" height="14" rx="2" fill="#27ca40"/>
+  <!-- Row 2 -->
+  <rect x="100" y="160" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="120" y="160" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="140" y="160" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="160" y="160" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="180" y="160" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="200" y="160" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="220" y="160" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="240" y="160" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="260" y="160" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="280" y="160" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="300" y="160" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="320" y="160" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="340" y="160" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="360" y="160" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="380" y="160" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="400" y="160" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="420" y="160" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="440" y="160" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="460" y="160" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="480" y="160" width="14" height="14" rx="2" fill="#0e4429"/>
+  <!-- Row 3 -->
+  <rect x="100" y="180" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="120" y="180" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="140" y="180" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="160" y="180" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="180" y="180" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="200" y="180" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="220" y="180" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="240" y="180" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="260" y="180" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="280" y="180" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="300" y="180" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="320" y="180" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="340" y="180" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="360" y="180" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="380" y="180" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="400" y="180" width="14" height="14" rx="2" fill="#39d353"/>
+  <rect x="420" y="180" width="14" height="14" rx="2" fill="#27ca40"/>
+  <rect x="440" y="180" width="14" height="14" rx="2" fill="#0e4429"/>
+  <rect x="460" y="180" width="14" height="14" rx="2" fill="#006d32"/>
+  <rect x="480" y="180" width="14" height="14" rx="2" fill="#27ca40"/>
+</svg>
