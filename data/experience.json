@@ -2,18 +2,18 @@
   {
     "id": 1,
     "title": "Data Engineer",
-    "company": "HCA Healthcare, TX",
-    "date": "Aug 2024 - Present",
-    "description": "Designed and implemented a scalable data lakehouse architecture, ingesting over 2 TB of structured and semi-structured clinical, claims, provider, and operational data across 180+ hospitals. Built modular data pipelines using Airflow and dbt, orchestrating hourly incremental loads from 15+ upstream systems (~25M rows/day). Optimized ETL performance by 32% using Apache Spark on AWS EMR. Developed interactive Power BI dashboards reducing reporting SLAs from 48 hours to under 3 hours. Strengthened data governance with PHI masking/anonymization policies. Collaborated with Clinical Analytics and Actuarial teams enabling $3.4M/year in operational savings.",
+    "company": "Prudential Financial, Inc, TX, USA",
+    "date": "Sep 2023 - Present",
+    "description": "Developed scalable ETL pipelines using Apache Spark and Python to process and transform large volumes of insurance, retirement, and asset-management data including policy transactions, annuity contributions, claims activity, and market reference data. Utilized SQL and Hive to design optimized data models and complex analytical queries for policyholder, portfolio, and fund-level analysis. Built predictive models using TensorFlow and Scikit-learn to forecast policy lapse risk, annuity withdrawal behavior, and investment portfolio volatility. Designed and maintained entity-relationship (ER) diagrams for core business entities, improving schema efficiency by 30%. Implemented Apache Airflow DAGs to automate daily and intraday processing of claims and investment performance data. Optimized data ingestion by partitioning large fact tables, achieving 20% reduction in ETL runtime and up to 50% faster query performance. Created Power BI dashboards to visualize policy performance, investment returns, risk exposure, and customer behavior insights. Leveraged AWS Glue for serverless ETL orchestration and metadata management, reducing manual intervention by 40%.",
     "icon": "/default-company.svg",
     "iconBg": "#6b7c93"
   },
   {
     "id": 2,
     "title": "Data Engineer",
-    "company": "Cognizant, India",
-    "date": "Jul 2020 - Aug 2023",
-    "description": "Architected and deployed a high-throughput ETL pipeline using Apache Kafka and Azure Event Hubs, processing financial and market data daily with 99.9% reliability. Built scalable transformation pipelines using PySpark in Azure Databricks. Increased prediction accuracy by 20% training ML models on Azure Machine Learning. Created interactive Tableau dashboards improving stakeholder engagement by 50%. Orchestrated 100+ ETL workflows using Azure Data Factory and Apache Airflow on AKS. Integrated trade, CRM, and compliance systems into a centralized Azure Synapse data warehouse.",
+    "company": "HCL Tech, India",
+    "date": "Jul 2020 - Jun 2022",
+    "description": "Led design, development, and optimization of data pipelines using PySpark, SQL, Azure Databricks, and Synapse Analytics. Developed modular and reusable Python scripts to automate complex ETL processes for financial datasets including transactions, portfolio data, and reconciliation logs. Migrated large datasets from Teradata and PostgreSQL to Azure Synapse using Data Factory, Blob Storage, and PolyBase. Integrated HDFS as a staging layer for large-scale data ingestion. Built reusable Normalization Framework in Azure Databricks to standardize transformations across multiple data sources. Created Inventory Reconciliation Automation Framework reducing manual effort by 70%. Built a Migration UI Tool to automate transformation logic from model v1.0 to v2.0. Collaborated with business analysts and finance teams to translate requirements into Tableau visualizations aligned with KPIs. Secured data flows using Apache NiFi's built-in role-based access control (RBAC). Applied MapReduce techniques to identify data mismatches, saving 40% of manual audit effort. Implemented normalized and denormalized data models for both operational and analytical workloads.",
     "icon": "/default-company.svg",
     "iconBg": "#264653"
   }

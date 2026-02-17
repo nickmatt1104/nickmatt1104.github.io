@@ -1,13 +1,13 @@
 {
-  "title": "Ravi Sekhar Kommuri - Data Engineer Portfolio",
-  "description": "Results-driven Data Engineer with 4+ years of experience in architecting, building, and optimizing scalable data pipelines and analytics solutions. Proficient in Apache Spark, Kafka, Airflow, dbt, AWS, and Azure.",
+  "title": "Sai Nikhil Mattapalli - Data Engineer Portfolio",
+  "description": "4+ years of experience in designing and optimizing data pipelines and ETL processes. Proficient in Python, SQL, Apache Spark, Hadoop, Airflow, Kafka, AWS, and Azure.",
   "keywords": [
     "data engineer", "python", "sql", "spark", "kafka",
-    "airflow", "dbt", "aws", "azure", "ravi sekhar kommuri",
+    "airflow", "hadoop", "aws", "azure", "sai nikhil mattapalli",
     "portfolio", "pyspark", "etl", "data pipeline",
-    "tableau", "power bi", "hadoop", "machine learning",
+    "tableau", "power bi", "machine learning",
     "data warehousing", "scala"
   ],
-  "siteUrl": "https://ravisekhargit.github.io",
+  "siteUrl": "https://nickmatt1104.github.io",
   "ogImage": "/og-image.svg"
 }

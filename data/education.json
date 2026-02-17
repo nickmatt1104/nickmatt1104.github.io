@@ -2,18 +2,18 @@
   {
     "id": 1,
     "degree": "M.S.",
-    "school": "Campbellsville University, Louisville, Kentucky, USA",
+    "school": "SUNY Albany, Albany, USA",
     "date": "",
-    "description": "Information Technology & Management.",
+    "description": "Computer Science.",
     "icon": "/default-school.svg",
     "iconBg": "#27AE60"
   },
   {
     "id": 2,
     "degree": "B.Tech",
-    "school": "Gudlavalleru Engineering College, JNTUK, India",
+    "school": "Bharath University, India",
     "date": "",
-    "description": "Computer Science and Engineering.",
+    "description": "Computer Science.",
     "icon": "/default-school.svg",
     "iconBg": "#9B59B6"
   }

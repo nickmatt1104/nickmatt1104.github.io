@@ -3,19 +3,19 @@ import styles from '../styles/CertificationsPage.module.css';
 const certifications = [
   {
     id: 1,
-    name: 'Python for Data Science',
-    issuer: 'Smart Bridge Powered by IBM Developer Skills Network',
+    name: 'DP-700 (Fabric Data Engineer Associate)',
+    issuer: 'Microsoft',
     date: '',
     credentialId: '',
-    icon: '\u{1F40D}',
+    icon: '\u{1F4CA}',
   },
   {
     id: 2,
-    name: 'Machine Learning with Python',
-    issuer: 'Smart Bridge Powered by IBM Developer Skills Network',
+    name: 'AWS Certified Data Engineer',
+    issuer: 'Amazon Web Services',
     date: '',
     credentialId: '',
-    icon: '\u{1F916}',
+    icon: '\u{2601}',
   },
 ];
 

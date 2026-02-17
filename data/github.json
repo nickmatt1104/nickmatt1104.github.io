@@ -1,17 +1,17 @@
 {
   "user": {
-    "login": "ravisekhargit",
-    "avatar_url": "https://github.com/ravisekhargit.png",
-    "public_repos": 10,
+    "login": "nickmatt1104",
+    "avatar_url": "https://github.com/nickmatt1104.png",
+    "public_repos": 5,
     "followers": 0,
-    "following": 1
+    "following": 0
   },
   "repos": [
     {
       "id": 1,
-      "name": "customer-trends-data-analysis-sql-python-powerbi",
-      "description": "Data analysis project using SQL, Python, and Power BI to explore customer trends.",
-      "html_url": "https://github.com/ravisekhargit/customer-trends-data-analysis-sql-python-powerbi",
+      "name": "ibm-hr-analytics-employee-attrition-and-performance-prediction",
+      "description": "Portfolio project showcasing HR analytics and employee attrition prediction.",
+      "html_url": "https://github.com/nickmatt1104/ibm-hr-analytics-employee-attrition-and-performance-prediction",
       "language": "Jupyter Notebook",
       "stargazers_count": 0,
       "forks_count": 0,
@@ -19,89 +19,39 @@
     },
     {
       "id": 2,
-      "name": "realtime-warehousing-with-snowflake",
-      "description": "Comprehensive project exploring real-time data warehousing with Snowflake.",
-      "html_url": "https://github.com/ravisekhargit/realtime-warehousing-with-snowflake",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 3,
-      "name": "supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-      "description": "Supply chain analysis in the FMCG domain for AtliQMart.",
-      "html_url": "https://github.com/ravisekhargit/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 4,
-      "name": "time-series-analysis-and-forecasting-with-python",
-      "description": "Time series analysis and forecasting using Python.",
-      "html_url": "https://github.com/ravisekhargit/time-series-analysis-and-forecasting-with-python",
+      "name": "medical-insurance-cost-prediction",
+      "description": "Educational project for mastering predictive modeling with medical insurance data.",
+      "html_url": "https://github.com/nickmatt1104/medical-insurance-cost-prediction",
       "language": "Jupyter Notebook",
       "stargazers_count": 0,
       "forks_count": 0,
       "watchers_count": 0
     },
     {
+      "id": 3,
+      "name": "supply-chain-dashboard",
+      "description": "Supply chain analytics dashboard built with modern web technologies.",
+      "html_url": "https://github.com/nickmatt1104/supply-chain-dashboard",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 4,
+      "name": "employemanagementsystem",
+      "description": "Comprehensive employee management system exploring software design patterns.",
+      "html_url": "https://github.com/nickmatt1104/employemanagementsystem",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
       "id": 5,
-      "name": "ravisekhargit.github.io",
-      "description": "Professional portfolio for ravisekhargit.",
-      "html_url": "https://github.com/ravisekhargit/ravisekhargit.github.io",
-      "language": "CSS",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 7,
-      "name": "centralrepo",
-      "description": "Central repository for shared code and utilities.",
-      "html_url": "https://github.com/ravisekhargit/centralrepo",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 8,
-      "name": "guvi",
-      "description": "Projects and exercises from Guvi learning platform.",
-      "html_url": "https://github.com/ravisekhargit/guvi",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 9,
-      "name": "Guvi_SQL_Basic-scripts-Python-mini",
-      "description": "SQL basic scripts and Python mini projects.",
-      "html_url": "https://github.com/ravisekhargit/Guvi_SQL_Basic-scripts-Python-mini",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 10,
-      "name": "githubrepo",
-      "description": "Practice repository for exploring GitHub features.",
-      "html_url": "https://github.com/ravisekhargit/githubrepo",
-      "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "watchers_count": 0
-    },
-    {
-      "id": 11,
-      "name": "ravisekhargit",
-      "description": "Profile README for ravisekhargit.",
-      "html_url": "https://github.com/ravisekhargit/ravisekhargit",
+      "name": "nickmatt1104",
+      "description": "Profile README for nickmatt1104.",
+      "html_url": "https://github.com/nickmatt1104/nickmatt1104",
       "language": null,
       "stargazers_count": 0,
       "forks_count": 0,

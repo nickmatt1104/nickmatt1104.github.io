@@ -1,8 +1,8 @@
 {
-  "name": "RAVI SEKHAR KOMMURI",
+  "name": "SAI NIKHIL MATTAPALLI",
   "title": "Data Engineer",
-  "shortBio": "Results-driven Data Engineer with 4+ years of experience in architecting, building, and optimizing scalable data pipelines and analytics solutions in agile enterprise environments.",
-  "location": "Texas, USA",
+  "shortBio": "4+ years of experience in designing and optimizing data pipelines and ETL processes, utilizing SDLC, Agile, and Waterfall methodologies. Proficient in Python, SQL, Scala, and Shell Scripting with expertise in Apache Spark, Hadoop, Airflow, and Kafka, alongside cloud platforms like AWS and Azure.",
+  "location": "New Jersey, USA",
   "avatarUrl": "/avatar.jpg",
   "resumeUrl": "/resume.pdf"
 }

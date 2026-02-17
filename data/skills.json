@@ -1,16 +1,20 @@
 {
   "categories": [
     {
+      "name": "Methodologies",
+      "skills": ["SDLC", "Agile", "Waterfall"]
+    },
+    {
       "name": "Programming Languages",
-      "skills": ["Python", "SQL", "R", "Scala"]
+      "skills": ["Python", "SQL", "R"]
     },
     {
       "name": "Data Engineering",
-      "skills": ["Apache Spark", "Hadoop", "Apache Kafka", "Apache Iceberg", "Apache Beam", "dbt", "ETL/ELT", "PySpark"]
+      "skills": ["Apache Spark", "Apache Hadoop", "Apache Kafka", "Apache Beam", "ML Algorithms", "ETL/ELT", "PySpark", "dbt"]
     },
     {
       "name": "Cloud Platforms",
-      "skills": ["AWS", "Azure"]
+      "skills": ["AWS (IAM, S3, VPC, EC2, Athena, Glue, Lambda, Step Functions, EMR, Redshift, SageMaker)", "Google Cloud Platform"]
     },
     {
       "name": "Databases",
@@ -18,23 +22,21 @@
     },
     {
       "name": "Visualization Tools",
-      "skills": ["Tableau", "Power BI", "Excel (Pivot Tables, VLOOKUP)"]
+      "skills": ["Tableau", "Power BI", "Advanced Excel (Pivot Tables, VLOOKUP)", "Amazon Quicksight"]
     },
     {
       "name": "Packages & Libraries",
       "skills": ["NumPy", "Pandas", "Matplotlib", "SciPy", "Scikit-learn", "TensorFlow", "Seaborn"]
     },
     {
-      "name": "Generative AI",
-      "skills": ["GPT-4", "BERT", "LLaMA", "LangGraph", "RAG", "Prompt Engineering", "Tokenization"]
+      "name": "IDEs",
+      "skills": ["Visual Studio Code", "PyCharm", "Jupyter Notebook"]
     },
     {
       "name": "Other Technical Skills",
       "skills": [
-        "DAX", "SAS", "JIRA", "SAP", "SSIS", "SSRS",
-        "Machine Learning", "Data Warehousing", "Data Mining",
-        "Docker", "CI/CD Pipeline", "PCI DSS", "RBAC",
-        "Data Lineage & Masking", "A/B Testing", "Git", "GitHub"
+        "Docker", "JIRA", "SSIS", "SSRS", "RBAC",
+        "CI/CD Pipeline", "Git", "GitHub"
       ]
     }
   ]

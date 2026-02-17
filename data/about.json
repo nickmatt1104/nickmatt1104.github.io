@@ -1,13 +1,13 @@
 {
   "bio": [
-    "Hello! I'm Ravi Sekhar Kommuri, a Data Engineer based in Texas, USA.",
-    "Results-driven and detail-oriented Data Engineer with 4+ years of experience in architecting, building, and optimizing scalable data pipelines and analytics solutions in agile enterprise environments. Proficient in developing robust ETL/ELT processes using tools like Apache Spark, Kafka, Airflow, dbt, and cloud services including AWS and Azure. Strong expertise in Python, SQL, and R, with a solid foundation in data modeling, data warehousing, and real-time streaming. Skilled in data visualization and storytelling using Tableau, Power BI, and Excel, translating complex datasets into actionable insights for business stakeholders."
+    "Hello! I'm Sai Nikhil Mattapalli, a Data Engineer based in New Jersey, USA.",
+    "4+ years of experience in designing and optimizing data pipelines and ETL processes, utilizing SDLC, Agile, and Waterfall methodologies for efficient project execution and thorough documentation. Proficient in Python, SQL, Scala, and Shell Scripting with expertise in data manipulation using NumPy, Pandas, SQLAlchemy, and PySpark for effective data cleaning, transformation, and statistical modelling. In-depth knowledge of data engineering tools including Apache Spark, Hadoop, Airflow, and Kafka, alongside cloud platforms like AWS and Azure for scalable data solutions."
   ],
   "highlights": [
-    "Proficient in Python, SQL, R, and Scala",
-    "Expert in Apache Spark, Kafka, Airflow, and dbt",
+    "Proficient in Python, SQL, Scala, and R",
+    "Expert in Apache Spark, Hadoop, Airflow, and Kafka",
     "Experienced with AWS and Azure cloud platforms",
-    "Skilled in Tableau, Power BI, and data visualization"
+    "Skilled in Tableau, Power BI, and Amazon Quicksight"
   ],
   "interests": [
     "Data Engineering",

@@ -20,7 +20,7 @@ const outerTechItems = [
 // Inner ring tech items (6 items)
 const innerTechItems = [
   { icon: 'pyspark', name: 'PySpark', color: '#E25A1C' },
-  { icon: 'snowflake', name: 'Snowflake', color: '#29B5E8' },
+  { icon: 'awsglue', name: 'AWS Glue', color: '#FF9900' },
   { icon: 'tensorflow', name: 'TensorFlow', color: '#FF6F00' },
   { icon: 'powerbi', name: 'Power BI', color: '#F2C811' },
   { icon: 'mongodb', name: 'MongoDB', color: '#47A248' },
@@ -127,15 +127,13 @@ const icons = {
       <text x="12" y="14" textAnchor="middle" fill="white" fontSize="5" fontWeight="bold">Py</text>
     </svg>
   ),
-  snowflake: (
+  awsglue: (
     <svg viewBox="0 0 24 24">
-      <path d="M12 2v20M2 12h20" stroke="#29B5E8" strokeWidth="2" strokeLinecap="round"/>
-      <path d="M5 5l14 14M19 5l-14 14" stroke="#29B5E8" strokeWidth="1.5" strokeLinecap="round"/>
-      <circle cx="12" cy="12" r="2.5" fill="#29B5E8"/>
-      <circle cx="12" cy="4" r="1.5" fill="#29B5E8"/>
-      <circle cx="12" cy="20" r="1.5" fill="#29B5E8"/>
-      <circle cx="4" cy="12" r="1.5" fill="#29B5E8"/>
-      <circle cx="20" cy="12" r="1.5" fill="#29B5E8"/>
+      <rect x="3" y="3" width="18" height="18" rx="3" fill="none" stroke="#FF9900" strokeWidth="1.5"/>
+      <path d="M7 8h10M7 12h10M7 16h10" stroke="#FF9900" strokeWidth="1.5" strokeLinecap="round"/>
+      <circle cx="17" cy="8" r="1.5" fill="#FF9900"/>
+      <circle cx="17" cy="12" r="1.5" fill="#FF9900"/>
+      <circle cx="17" cy="16" r="1.5" fill="#FF9900"/>
     </svg>
   ),
   tensorflow: (
